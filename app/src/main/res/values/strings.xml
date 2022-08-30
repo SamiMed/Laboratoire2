@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Laboratoire2</string>
+    <string name="layout_text">Cycle de vie d\'une activité et intentions</string>
+    <string name="btnFinish">APPEL À FINISH</string>
+    <string name="cbSaveOrRestore">Sauvergarder et restaurer la couleur actuelle.</string>
+    <string name="tvOrientation">Changer l\'orientation de l\'écran pour changer la couleur de la vue. Recommencer en ayant sélectionné la case à cocher ci-dessous.</string>
+    <string name="btnExplicit">APPUYER POUR LANCER UNE ACTIVITÉ EN UTILISANT UNE INTENTION EXPLICITE</string>
+    <string name="tvActivitDesti">Ceci est l’activité destinataire. Appuyer sur la touche retour pour revenir à l’activité appelante</string>
+    <string name="btnRes">APPUYER POUR LANCER UNE ACTIVITÉ (EXPLICITE) QUI RETOURNE UN RÉSULTAT</string>
+    <string name="tvMsgDestinataire">Appuyer sur le bouton résultat pour retourner RESULT_OK avec des données ou appuyer sur la touche Retour pour retourner le code RESULT_CANCEL</string>
+    <string name="btnResultat">Résultat</string>
+    <string name="title_activity_destinataire_res">Activité destinataire avec résultat</string>
+    <string name="title_activity_sans_res">Activité destinataire sans résultat</string>
+    <string name="tvActiImpli">Utiliser les boutons suivants pour lancer des activités implicites</string>
+    <string name="btnAction1">ACTION 1</string>
+    <string name="btnAction2">ACTION 2</string>
+    <string name="btnAction3">ACTION_VIEW</string>
+    <string name="title_activity_destinataire_implicit">Activité Destinataire implicite</string>
+</resources>
